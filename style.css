@@ -64,3 +64,21 @@ img {
     width: 90%;
   }
 }
+
+/* 
+custom design
+*/
+.error-message-area{
+  text-align: center;
+  font-size: 12px;
+  display: none;
+}
+
+
+.loader{
+  width: 100%;
+}
+
+.d-none{
+  display: none !important;
+}
