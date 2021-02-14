@@ -1,6 +1,6 @@
 
-//Code Link:
-// Live Link:
+//Code Link: https://github.com/appsmakerbd/fancy-slider-debug.git
+// Live Link: https://appsmakerbd.github.io/fancy-slider-debug/index.html
 
 //Issues NOte
 //Five (5) Main issues resolved
